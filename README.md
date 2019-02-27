@@ -1,4 +1,4 @@
-# zjzphp
+# E-PHP
 
 #### 介绍
-简易php之MVC框架
+php之MVC框架
