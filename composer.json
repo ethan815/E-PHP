@@ -1,0 +1,16 @@
+{
+  "name": "ethan815/ephp",
+  "description": "ephp is php mvc framework!",
+  "type": "project",
+  "require": {
+    "php": ">=5.6"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ethan815",
+      "email": "jiazhen815@163.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
